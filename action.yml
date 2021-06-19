@@ -1,4 +1,4 @@
-name: 'Hexo Action'
+name: 'Hexo Deploy Action'
 description: 'Hexo CI/CD action for automating deployment.'
 author: 'germey'
 inputs:
